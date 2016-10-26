@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="first_sa_black_president">1. Who is the first black president in South Africa</string>
+    <string name="first_sa_black_president_america">2. Who is the first black president in America</string>
+    <string name="Leader_EFF">3. Who is the leader of EFF</string>
+    <string name="Pres_Mozambique">4. Who is the First President of Mozambique</string>
+    <string name="zimbabwe">5. What was the name of Zimbabwe before they change it to zimbabwe</string>
+    <string name="MTN8">1 . Which team won the MTN8</string>
+    <string name="Scored">2 . Who scored the first against Sundowns on MTN8 cup</string>
+    <string name="League_season">3 . Which team won the last league season</string>
+    <string name="Messi_playing">4 . Which team is Messi playing for</string>
+    <string name="Ranaldo_playing">5 . Which team is Christiano Ronaldo playing</string>
+    <string name="oneeeee">1.  6 ( 2 * 2 ) - 2 =</string>
+    <string name="twoooo">2.  6 ( 2 * 2 ) + 2 =</string>
+    <string name="threeee">3.  2 * ( 2 * 4 ) ^ 2 =</string>
+    <string name="fourrrrrr">4.  2 ( 3 * 2 )* 2 =</string>
+    <string name="fiveeeee">5.  2 ( 6 * 2 ) + 4 =</string>
+</resources>
